@@ -4,4 +4,5 @@ Feature 1.
 
 Feature 2.
 
-Feature 3. // Need to add a separate module.
+Feature 3.
+Some small additions for release v0.1.
