@@ -1,3 +1,5 @@
 Main source file.
 
 Feature 1.
+
+Feature 2.
